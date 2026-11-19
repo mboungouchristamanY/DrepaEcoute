@@ -92,7 +92,7 @@ export default function Conversation() {
     };
     const userMessages = messages.filter((m) => m.role === 'user').length;
     return (<PatientShell withNav={false}>
-      <PatientHeader title="Compagnon DrepanoCare" subtitle="Protocole d’écoute active · Drépanocytose" backTo="/accueil" actions={<button type="button" onClick={() => navigate('/historique')} aria-label="Archives" className="flex h-11 w-11 items-center justify-center rounded-full text-on-surface-variant transition hover:bg-surface-container">
+      <PatientHeader title="Compagnon DrepaEcoute" subtitle="Protocole d’écoute active · Drépanocytose" backTo="/accueil" actions={<button type="button" onClick={() => navigate('/historique')} aria-label="Archives" className="flex h-11 w-11 items-center justify-center rounded-full text-on-surface-variant transition hover:bg-surface-container">
             <Icon name="history" size={22}/>
           </button>}/>
 

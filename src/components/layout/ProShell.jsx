@@ -17,7 +17,7 @@ export function ProShell({ children, title, subtitle }) {
               <Icon name="cardiology" size={24}/>
             </div>
             <div>
-              <p className="font-display text-[17px] font-bold leading-tight text-primary">DrepanoSuivi</p>
+              <p className="font-display text-[17px] font-bold leading-tight text-primary">DrepaEcoute</p>
               <p className="text-[11px] font-semibold uppercase tracking-wider text-secondary">Pro · HDS</p>
             </div>
           </div>

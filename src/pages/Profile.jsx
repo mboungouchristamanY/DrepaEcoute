@@ -118,7 +118,7 @@ export default function Profile() {
         }} className="flex min-h-11 items-center justify-center gap-1.5 rounded-full text-[12px] font-semibold text-error transition hover:bg-error-container/30">
             <Icon name="logout" size={17}/> Se déconnecter
           </button>
-          <p className="text-center text-[10px] text-outline">DrepanoSuivi · v1.0 · prototype de recherche HDS</p>
+          <p className="text-center text-[10px] text-outline">DrepaEcoute · v1.0 · prototype de recherche HDS</p>
         </div>
       </main>
     </PatientShell>);

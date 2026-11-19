@@ -15,7 +15,7 @@ export function PatientHeader({ title, subtitle, backTo, actions, logo = false }
               </div>
               <div className="flex min-w-0 flex-col">
                 <span className="font-display text-[19px] font-bold leading-tight tracking-tight text-primary">
-                  Drepa<span className="text-secondary">Suivi</span>
+                  Drepa<span className="text-secondary">Ecoute</span>
                 </span>
                 <span className="mt-0.5 w-fit rounded-full bg-secondary-fixed/60 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-secondary">
                   Prototype de recherche

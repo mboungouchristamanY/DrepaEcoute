@@ -29,7 +29,7 @@ export default function Splash() {
             <Icon name="lock" size={13}/> Santé numérique certifiée &amp; HDS
           </p>
           <h1 className="font-display text-[34px] font-extrabold leading-none tracking-tight text-primary">
-            Drepano<span className="text-secondary">Suivi</span>
+            Drepa<span className="text-secondary">Ecoute</span>
           </h1>
           <p className="mt-4 max-w-sm text-[15px] leading-relaxed text-on-surface-variant">
             L’allié bienveillant d’écoute, d’expression et de suivi partagé de la drépanocytose.
